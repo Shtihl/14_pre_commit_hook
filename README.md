@@ -1,6 +1,10 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+This script is pre-commit hook for git. Before commit will send to repository it run the tests and if tests are done the commit is ok.
+
+# How to use
+
+Copy the pre-commit file into ```<your-project-dir>/.git/hooks```
 
 # Project Goals
 
