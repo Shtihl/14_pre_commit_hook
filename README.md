@@ -4,8 +4,6 @@ This script is pre-commit hook for git. Before commit will send to repository it
 
 # How to use
 
-# How to use
-
 1. If you're using `virtualenv` - change path to python interpreter inside `pre-commit` file.
 2. Copy `pre-commit` to `.git/hooks` in your project directory.
 3. Make pre-commit executable by running `chmod +x .git/hooks/pre-commit` (on linux system)
